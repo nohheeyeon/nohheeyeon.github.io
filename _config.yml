@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: 노희연
+title: 신입 Backend Developer & Automation Engineer
+email: heeyeon1213@gmail.com
+website: https://github.com/nohheeyeon
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  nohheeyeon
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,9 +48,25 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  안녕하세요, 업무 자동화 및 백엔드 개발에 관심이 많은 신입 개발자입니다.
+  Python과 Shell Script, Bash Shell을 활용하여 자동화 툴을 개발한 경험이 있으며, 테스트 자동화 및 성능 검증 프로세스를 최적화하는 작업을 수행했습니다. 반복적인 작업을 효율적으로 처리하는 솔루션을 구현하며, 개발 및 운영 환경의 생산성을 높이는 데 집중해왔습니다.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  또한, 웹 백엔드 개발을 배우며 Django를 활용한 프로젝트를 진행한 경험이 있습니다. 백엔드 로직을 설계하고 데이터베이스와 연동하는 과정에서 웹 애플리케이션의 구조를 이해하고, 유지보수성을 고려한 개발 방법을 익혔습니다.
+
+  자동화 및 백엔드 개발 역량을 바탕으로 다양한 시스템 환경에서 최적의 성능을 내는 솔루션을 개발하는 것이 목표입니다. 새로운 기술을 배우고 적용하는 것을 즐기며, 보다 안정적이고 효율적인 개발을 위해 꾸준히 성장해 나가겠습니다.
+
+  I am most skilled in: 
+    - <mark>Python</mark> (자동화 및 백엔드 개발)
+    - <mark>Shell Script / Bash</mark> (자동화 스크립트 개발)
+    - <mark>Django</mark> (웹 백엔드 개발 경험)
+    - <mark>MariaDB / PostgreSQL</mark> (데이터베이스 사용 경험)
+    - <mark>HeidiSQL</mark> (DB 관리 도구)
+    - <mark>Linux</mark> (서버 환경 경험)
+    - <mark>AWS</mark> (클라우드 사용 경험)
+    - <mark>Git / GitHub / GitLab</mark> (버전 관리 및 협업)
+    - <mark>Notion</mark> (문서 및 프로젝트 관리)
+
+
 
 content:
   - title: Projects # Title for the section
