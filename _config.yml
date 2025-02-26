@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: 
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요, 업무 자동화 및 백엔드 개발에 관심이 많은 신입 개발자입니다.
   Python과 Shell Script, Bash Shell을 활용하여 자동화 툴을 개발한 경험이 있으며, 테스트 자동화 및 성능 검증 프로세스를 최적화하는 작업을 수행했습니다. 반복적인 작업을 효율적으로 처리하는 솔루션을 구현하며, 개발 및 운영 환경의 생산성을 높이는 데 집중해왔습니다.
